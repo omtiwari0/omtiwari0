@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omtiwari0&label=Profile%20views&color=0e75b6&style=flat" alt="omtiwari0" /> </p>
 
-- 🔭 I’m currently working on **Spark Club**
+- 🔭 I’m currently working on **ZOKTU - A social media platform**
 
 - 🌱 I’m currently learning **Node JS**
 
